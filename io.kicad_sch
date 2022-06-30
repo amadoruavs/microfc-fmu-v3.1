@@ -1643,7 +1643,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 5985757d-9770-4f1b-bd40-9fec10d5e9c8)
   )
-  (hierarchical_label "PPM_INPUT" (shape input) (at 105.41 99.06 0)
+  (hierarchical_label "PPM_IN" (shape input) (at 105.41 99.06 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 5c216855-faa6-410e-848c-d81d30a5f173)
   )
