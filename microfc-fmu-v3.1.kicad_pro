@@ -124,7 +124,12 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_to_pin|2667000|1104900|cdc00616-83e6-49e3-9bc5-3907e90a9588|1d84d53d-9f6f-4ffd-b76e-ef8806d21ad7",
+      "pin_to_pin|2667000|1104900|cdc00616-83e6-49e3-9bc5-3907e90a9588|3755aa9a-1d7c-4b94-a832-c5d136e523ec",
+      "pin_to_pin|2667000|927100|5aa0d217-9804-4bfa-9bb5-b922e7ac43ea|1d84d53d-9f6f-4ffd-b76e-ef8806d21ad7",
+      "pin_to_pin|2667000|927100|5aa0d217-9804-4bfa-9bb5-b922e7ac43ea|3755aa9a-1d7c-4b94-a832-c5d136e523ec"
+    ],
     "meta": {
       "version": 0
     },
