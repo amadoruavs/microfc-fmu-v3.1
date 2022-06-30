@@ -320,6 +320,18 @@
     [
       "7dd82a48-a483-49a4-a549-0d74bb806e12",
       ""
+    ],
+    [
+      "b7f4c42a-ec09-47f5-88b3-96098e35479a",
+      "FMU Processor"
+    ],
+    [
+      "52dd5bf7-d865-475e-99f4-3dd6a1b4d2f7",
+      "Sensors"
+    ],
+    [
+      "3afd19d3-a8af-488e-befe-c9bfd85f2b97",
+      "IO Processor"
     ]
   ],
   "text_variables": {}
