@@ -2660,7 +2660,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a1782542-3abe-4344-b418-7870c468beab)
     (property "Reference" "J4" (id 0) (at 218.44 93.98 0))
-    (property "Value" "[IO Bus Bottom]" (id 1) (at 218.44 96.52 0))
+    (property "Value" "[IO Bus Top]" (id 1) (at 218.44 96.52 0))
     (property "Footprint" "" (id 2) (at 217.17 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2809,7 +2809,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f9937900-c7e9-484c-8c19-08a1486cee80)
     (property "Reference" "J2" (id 0) (at 105.41 93.98 0))
-    (property "Value" "FMU Bus [Bottom]" (id 1) (at 105.41 96.52 0))
+    (property "Value" "FMU Bus [Top]" (id 1) (at 105.41 96.52 0))
     (property "Footprint" "" (id 2) (at 104.14 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3452,13 +3452,13 @@
       (reference "J1") (unit 1) (value "FMU Bus [Bottom]") (footprint "")
     )
     (path "/f9937900-c7e9-484c-8c19-08a1486cee80"
-      (reference "J2") (unit 1) (value "FMU Bus [Bottom]") (footprint "")
+      (reference "J2") (unit 1) (value "FMU Bus [Top]") (footprint "")
     )
     (path "/5ae7b426-6c30-416b-966f-159e60bf5e37"
       (reference "J3") (unit 1) (value "[IO Bus Bottom]") (footprint "")
     )
     (path "/a1782542-3abe-4344-b418-7870c468beab"
-      (reference "J4") (unit 1) (value "[IO Bus Bottom]") (footprint "")
+      (reference "J4") (unit 1) (value "[IO Bus Top]") (footprint "")
     )
     (path "/b7f4c42a-ec09-47f5-88b3-96098e35479a/aca8d602-9482-4cef-8c60-7c037cad9604"
       (reference "J5") (unit 1) (value "Micro_SD_Card") (footprint "")
