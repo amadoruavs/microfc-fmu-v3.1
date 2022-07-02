@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name "Hirose_DF40")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/Hirose_DF40.pretty")(options "")(descr ""))
   (lib (name "USON")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/USON.pretty")(options "")(descr ""))
+  (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/RP2040_minimal.pretty")(options "")(descr ""))
+  (lib (name "ICP20100")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/ICP20100.pretty")(options "")(descr ""))
 )
