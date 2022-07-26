@@ -3,4 +3,6 @@
   (lib (name "USON")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/USON.pretty")(options "")(descr ""))
   (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/RP2040_minimal.pretty")(options "")(descr ""))
   (lib (name "ICP20100")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/ICP20100.pretty")(options "")(descr ""))
+  (lib (name "Hirose_DF17")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/Hirose_DF17.pretty")(options "")(descr ""))
+  (lib (name "Hirose_DF12N")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/Hirose_DF12N.pretty")(options "")(descr ""))
 )
